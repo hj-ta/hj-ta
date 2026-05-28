@@ -10,6 +10,35 @@
 ## About
 
 
+
+```ml
+        _____         hojung@github
+       /  o o\        ───────────────────────────────
+       \  ^  /        OS:        macOS, Ubuntu, 가끔 Win(눈물)
+        \___/         Uptime:    25 years, 인생 디버깅 중
+       __|_|__        Host:      노예1 Inc. (입사 대기열)
+      / / | \ \       Kernel:    Backend Engineer (panic-mode)
+      ' |_| '         Shell:     coffee 4잔/day
+       /   \
+     _/     \_        Languages.Prog:  Python, Java, JS, C++
+                      Languages.Real:  한국어, English(희망회로)
+                      Hobbies:         스파링, 넷플 명상
+
+                      Contact ────────────────────────
+                      Email:     hojung@example.com
+                      Blog:      velog.io/@hojung (아마도)
+
+                      Stats ──────────────────────────
+                      Repos: 42   Commits: 1,337   Coffee: ∞
+```
+
+
+<div align="center">
+
+![neofetch](https://hj-ta.github.io/ZolaMan-run/neofetch.svg)
+
+</div>
+
 <br>
 
 ## Tech Stack
@@ -26,14 +55,6 @@
 
 ## Experience
 
-
-
 <br>
 
 ## Projects
-
-
-
----
-
-
