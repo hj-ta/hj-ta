@@ -1,26 +1,21 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:3776AB&height=200&section=header&text=Hello,%20I'm%20a%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn)
-
-### 함께 성장하는 개발자를 꿈꿉니다 🌱
-
-[![Tistory](https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=googlechrome&logoColor=white)](https://본인블로그주소)
-[![Gmail](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:본인이메일@gmail.com)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:232F3E,100:3776AB&height=180&section=header&text=본인이름&fontSize=48&fontColor=ffffff)
 
 </div>
 
----
+## About
 
-## 🙋‍♂️ About Me
+서버와 인프라에 관심이 많은 백엔드 개발자입니다.
+Python, Java 기반의 서비스 개발과 AWS 환경에서의 배포·운영 경험을 쌓고 있습니다.
 
-- 🎯 **목표**: 꾸준히 배우고 성장하는 개발자
-- 🌱 **현재**: 새로운 기술을 학습하며 프로젝트를 진행하고 있습니다
-- 💡 **관심 분야**: 백엔드 / 클라우드 / 인프라
-- ⚡ **좌우명**: 코드 한 줄씩, 꿈에 한 걸음씩
+- 관심 분야: Backend / Cloud / Infrastructure
+- 기록: [Blog](https://본인블로그주소)
+- 연락: 본인이메일@gmail.com
 
 <br>
 
-## 🛠 Tech Stack
+## Tech Stack
 
 | Category | Technologies |
 |:---:|:---|
@@ -32,32 +27,30 @@
 
 <br>
 
-## 📌 Activity
+## Experience
 
-- `2024.xx ~` 어떤 동아리 / 부트캠프 / 스터디
-- `2025.xx` 어떤 프로젝트 / 해커톤 / 수상 경력
+- `2024.xx ~ 2024.xx` 동아리 / 부트캠프 / 활동명 — 맡은 역할
+- `2025.xx` 프로젝트명 / 해커톤 — 결과 (수상, 배포 등)
 - `2025.xx ~` 현재 진행 중인 활동
 
 <br>
 
-## 🚀 Projects
+## Projects
 
-### 📁 [프로젝트 이름](https://github.com/본인아이디/저장소이름)
-> 한 줄 설명을 적어주세요
+### [프로젝트 이름](https://github.com/본인아이디/저장소이름)
+RESTful API 서버 설계 및 AWS 배포. (한 줄로 무엇을 만들었는지)
 
-**Tech** : `Python` `MySQL` `AWS`
+- 핵심 기능이나 본인이 맡은 부분을 한두 줄로
+- 정량적 결과가 있다면: 응답 속도 개선, 사용자 수 등
+
+`Python` `MySQL` `AWS` `Docker`
 
 ---
 
-### 📁 [두 번째 프로젝트](https://github.com/본인아이디/저장소이름)
-> 한 줄 설명을 적어주세요
+### [두 번째 프로젝트](https://github.com/본인아이디/저장소이름)
+한 줄 요약.
 
-**Tech** : `Java` `React` `Docker`
+- 본인이 기여한 부분
+- 기술적으로 고민했던 지점
 
-<br>
-
-<div align="center">
-
-### 💬 "꾸준함이 재능을 이깁니다"
-
-</div>
+`Java` `React` `MySQL`
