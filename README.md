@@ -9,10 +9,9 @@
 
 ## About
 
-
 <div align="center">
 
-![neofetch](https://hj-ta.github.io/ZolaMan-run/neofetch.svg)
+![neofetch](https://raw.githubusercontent.com/hj-ta/ZolaMan-run/main/neofetch.svg)
 
 </div>
 
@@ -35,3 +34,5 @@
 <br>
 
 ## Projects
+
+### 🏃 [STICKMAN RUN]
