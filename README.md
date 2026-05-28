@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:14140f,100:9aba2e&height=180&section=header&text=HoJung&fontSize=48&fontColor=d4ff3f)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:14140f,100:9aba2e&height=180&section=header&text=HoJung LEE&fontSize=48&fontColor=d4ff3f)
 
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://hj-ta.github.io/ZolaMan-run/)
 [![Blog](https://img.shields.io/badge/Blog-d4ff3f?style=for-the-badge&logo=googlechrome&logoColor=14140f)](https://hj-ta.github.io/ZolaMan-run/)
